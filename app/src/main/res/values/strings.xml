@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DocBooking</string>
+    <string name="FACEBOOK_APP_ID">641927509568442</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">1798401c245fb7d05836dc67f7b214d6</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="address_bullet">\u2022 Address:</string>
+    <string name="time_bullet">\u2022 Time:</string>
+    <string name="stylist_bullet">\u2022 Stylist:</string>
+    <string name="bullet">\u2022</string>
+</resources>

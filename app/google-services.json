@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078007909982",
+    "firebase_url": "https://docbooking-1d683.firebaseio.com",
+    "project_id": "docbooking-1d683",
+    "storage_bucket": "docbooking-1d683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078007909982:android:9fb814a1e59c572b",
+        "android_client_info": {
+          "package_name": "com.example.docbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078007909982-fjald4i3ouauv83548pctunf2lk6qhq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docbooking",
+            "certificate_hash": "c21f4361ef251276df34cac67545dc6f5508b05b"
+          }
+        },
+        {
+          "client_id": "1078007909982-4jbodesjjlk9enc9nsi54nqqli6eh8ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78Bog4sb0CqynGm7cDuxNPHIFqVmKxW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078007909982-4jbodesjjlk9enc9nsi54nqqli6eh8ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
